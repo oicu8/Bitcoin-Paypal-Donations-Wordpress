@@ -3,7 +3,7 @@ Contributors: gourl, GoUrl.io
 Plugin Name: GoUrl Bitcoin Paypal Donations - Give Addon
 Plugin URI: https://gourl.io/bitcoin-donations-wordpress-plugin.html
 Author URI: https://gourl.io 
-Tags: bitcoin, bitcoincash, bitcoin cash, bitcoins, bitcoin payment, bitcoin payments, gourl, cryptocurrency, btc, coinbase, bitpay, paypal, bitcoin donations, bitcoin donation, charity, churches, crowdfunding, donate, donation, donations, fundraiser, fundraising, gifts, giving, non-profit, nonprofit, paypal, stripe, give, wordpress donations, litecoin, dogecoin, dash, speedcoin, vertcoin, reddcoin, feathercoin, potcoin, monetaryunit, peercoin
+Tags: bitcoin, bitcoincash, bitcoin cash, bitcoins, bitcoin payment, bitcoin payments, gourl, cryptocurrency, btc, coinbase, bitpay, paypal, bitcoin donations, bitcoin donation, charity, churches, crowdfunding, donate, donation, donations, fundraiser, fundraising, gifts, giving, non-profit, nonprofit, paypal, stripe, give, wordpress donations, litecoin, dogecoin, NTRN, speedcoin, vertcoin, reddcoin, feathercoin, potcoin, monetaryunit, peercoin
 Requires at least: 3.5
 Tested up to: 4.9
 Stable Tag: 1.1.4
@@ -22,7 +22,7 @@ Wordpress Donation Plugin Features -
 * 100% Free Open Source Plugin on [Github.com](https://github.com/cryptoapi/Bitcoin-Paypal-Donations-Wordpress)
 * Provides Bitcoin/Altcoin Payment Gateway for [Give 0.8 or higher](https://wordpress.org/plugins/give/)
 * Paypal, GoUrl, Authorize.net, Paymill, Stripe payment gateways
-* Accept Bitcoin, BitcoinCash, Litecoin, Dash, Dogecoin, Speedcoin, Reddcoin, Potcoin, Feathercoin, Vertcoin, Peercoin, MonetaryUnit donations
+* Accept Bitcoin, BitcoinCash, Litecoin, Neutron, Dogecoin, Speedcoin, Reddcoin, Potcoin, Feathercoin, Vertcoin, Peercoin, MonetaryUnit donations
 * Direct Integration on your site, no external payment pages opens
 * Fully customizable plugin, full statistics, easy to use
 * No Chargebacks, Global, Secure. All in automatic mode
@@ -59,7 +59,7 @@ You need to install also -
 
 = Automatic installation =
 
-Automatic installation is the easiest option as WordPress handles the file transfers itself and you don't need to leave your web browser. To do an automatic install of GoUrl Give Bitcoin Donations, log in to your WordPress dashboard, navigate to the Plugins menu and click Add New.
+Automatic installation is the easiest option as WordPress handles the file transfers itself and you don't need to leave your web browser. To do an automatic install of GoUrl Give Bitcoin Donations, log in to your WordPress NTRNboard, navigate to the Plugins menu and click Add New.
 
 In the search field type "GoUrl Donation" and click Search Plugins. Once you've found our plugin you can view details about it such as the the rating and description. Most importantly, of course, you can install it by simply clicking Install Now.
 
